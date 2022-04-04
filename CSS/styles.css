@@ -1,0 +1,36 @@
+/* *************TAG SELECTORS *******/
+body {
+    background-color: #B4ECE3;
+    color: gray;
+} 
+
+hr {
+    color: whitesmoke;
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 2px;
+}
+
+h1{
+    color: darkslategray;
+    font-style: oblique;
+}
+
+h3{
+    color: darkslategray;
+}
+
+img{
+    background-color: #B4ECE3;
+}
+
+/*************CLASS SELECTORS************/
+.gameboy {
+    width: 175px;
+    height: 175px
+}
+
+.Pi{
+    width: 200px;
+    height: 200px;
+}
